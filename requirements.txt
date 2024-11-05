@@ -1,0 +1,11 @@
+numpy
+matplotlib
+pandas
+torch
+torchvision
+scikit-learn
+albumentations
+opencv-python
+seaborn
+streamlit==1.33.0
+streamlit-echarts==0.4.0
